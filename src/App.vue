@@ -1,6 +1,6 @@
 <template>
     <main>
-        <div class="container">Your codewars test app!</div>
+        <div class="container">Your codewars test app !</div>
     </main>
 </template>
 
